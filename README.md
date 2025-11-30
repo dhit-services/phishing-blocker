@@ -11,4 +11,6 @@ Please refer to the details there.
 
 Use it at your own risk. 
 
+The python script I use for extraction was created in co-work with ChatGPT.
+
 Download-link: https://raw.githubusercontent.com/dhit-services/phishing-blocker/refs/heads/master/phishingblocker.txt
