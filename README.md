@@ -9,7 +9,7 @@ terms of rights:
 https://creativecommons.org/publicdomain/zero/1.0/
 Please refer to the details there.
 
-* Use it at your own risk. * 
+** Use it at your own risk. ** 
 
 The python script I use for extraction was created in co-work with ChatGPT.
 
