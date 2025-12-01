@@ -6,8 +6,8 @@ import base64
 
 # ---- Pfade & Dateien --------------------------------------------------------
 MAILDIR = Path.home() / ".local/share/evolution/mail/local/.SPAM/cur"
-OUTPUT = Path.home() / "Serverscripts/phishingblocker.txt"
-WHITELIST = Path.home() / "Serverscripts/whitelist.txt"
+OUTPUT = Path.home() / "./phishingblocker.txt"
+WHITELIST = Path.home() / "./whitelist.txt"
 
 # ---- Regexen ---------------------------------------------------------------
 URL_REGEX = re.compile(r"(https?://[^\s<>'\"]+|www\.[^\s<>'\"]+)", re.IGNORECASE)
