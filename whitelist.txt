@@ -22,3 +22,4 @@ amazon.de
 amazon.com
 amazonaws.com
 wiki.apache.org
+w3.org
