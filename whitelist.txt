@@ -23,3 +23,7 @@ amazon.com
 amazonaws.com
 wiki.apache.org
 w3.org
+schemas.microsoft.com
+aok.de
+domainkeys.sourceforge.net
+upload.wikimedia.org
