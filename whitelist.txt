@@ -27,3 +27,5 @@ schemas.microsoft.com
 aok.de
 domainkeys.sourceforge.net
 upload.wikimedia.org
+elektrische-zigarettenstopfmaschine-versand.de
+wintersversand.info
